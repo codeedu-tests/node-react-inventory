@@ -7,6 +7,7 @@ O projeto consiste na criação de um sistema de estoque de produtos
 * Back-end - Node.js com TypeScript (Pode ser usado qualquer lib ou framework)
 * Front-end - React.js com TypeScript (Pode ser usado Create React App ou Next.js)
 * Docker para orquestar o ambiente da aplicação
+* Banco de dados MySQL
 
 ## Contexto do sistema
 
